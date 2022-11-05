@@ -1,6 +1,6 @@
-let age=16;
+let age=20;
 
-if(age>=15)
+if(age>=18)
 {
     console.log("you are eligible for voting")
 }
